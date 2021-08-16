@@ -1,0 +1,11 @@
+- title: Email
+  url: simonchen@buaa.edu.cn
+  icon: fas fa-envelope
+
+- title: GitHub
+  url: https://github.com/simon1624
+  icon: fab fa-github
+
+- title: QQ
+  url: https://qm.qq.com/cgi-bin/qm/qr?k=iuv_GxgaQK4Ns4VzhDtSkLYDNrtFJsEV&noverify=0
+  icon: fab fa-qq
